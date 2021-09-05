@@ -1,0 +1,16 @@
+D:\Users\mkrzy\Documents\dev\RebateCalculator\bin\Debug\net5.0\RebateCalculator.exe
+D:\Users\mkrzy\Documents\dev\RebateCalculator\bin\Debug\net5.0\RebateCalculator.deps.json
+D:\Users\mkrzy\Documents\dev\RebateCalculator\bin\Debug\net5.0\RebateCalculator.runtimeconfig.json
+D:\Users\mkrzy\Documents\dev\RebateCalculator\bin\Debug\net5.0\RebateCalculator.runtimeconfig.dev.json
+D:\Users\mkrzy\Documents\dev\RebateCalculator\bin\Debug\net5.0\RebateCalculator.dll
+D:\Users\mkrzy\Documents\dev\RebateCalculator\bin\Debug\net5.0\ref\RebateCalculator.dll
+D:\Users\mkrzy\Documents\dev\RebateCalculator\bin\Debug\net5.0\RebateCalculator.pdb
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\RebateCalculator.csproj.AssemblyReference.cache
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\RebateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\RebateCalculator.AssemblyInfoInputs.cache
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\RebateCalculator.AssemblyInfo.cs
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\RebateCalculator.csproj.CoreCompileInputs.cache
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\RebateCalculator.dll
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\ref\RebateCalculator.dll
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\RebateCalculator.pdb
+D:\Users\mkrzy\Documents\dev\RebateCalculator\obj\Debug\net5.0\RebateCalculator.genruntimeconfig.cache
